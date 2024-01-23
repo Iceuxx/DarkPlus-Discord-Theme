@@ -25,10 +25,4 @@
   --watermark-filter-brightness: 0%;
   --watermark-filter-contrast: 200%;
   --darkplus-emoji-picker-color: 900eg;
-/* powercord */
-	--spotify-color: var(--darkplus-sec) !important;
-	--toast-header: var(--darkplus-sec) !important;
-	--toast-background: var(--darkplus-bg) !important;
-	--toast-border: var(--darkplus-bg) !important;
-	--toast-contents: var( --darkplus-sec) !important;
 }
