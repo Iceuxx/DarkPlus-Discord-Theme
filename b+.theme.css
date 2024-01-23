@@ -22,7 +22,7 @@
   --watermark-filter-sepia: 80%;
   --watermark-filter-saturate: 20%;
   --watermark-filter-hue-rotate: 210deg;
-  --watermark-filter-brightness: 100%;
+  --watermark-filter-brightness: 0%;
   --watermark-filter-contrast: 200%;
   --darkplus-emoji-picker-color: 900eg;
 }
