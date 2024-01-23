@@ -16,11 +16,11 @@
   --darkplus-bg: #212121;
   --darkplus-bg2: #302f2f;
   --darkplus-sec: #a6d8fd;
-  --darkplus-links: ##d8eefe;
+  --darkplus-links: ##a6d8fde;
   --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/796065674073997332/1154570734119698494/discord-avatar-512-YV0PV.png);
  --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
-  --watermark-filter-saturate: 3000%;
+  --watermark-filter-saturate: 4000%;
   --watermark-filter-hue-rotate: 210deg;
   --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 200%;
