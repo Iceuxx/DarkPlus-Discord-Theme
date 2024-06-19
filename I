@@ -17,7 +17,7 @@
   --darkplus-bg2: #302f2f;
   --darkplus-sec: #a6d8fd;
   --darkplus-links: ##a6d8fd;
-  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/796065674073997332/1199483129694519567/dicorysd.png);
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/796065674073997332/1253048420688597023/image_2024-06-19_140538437.png?ex=66746fc8&is=66731e48&hm=0dd9d63dccfde91f477637a603cf169d476d4fee42cf0677f14f60530689646e&);
  --watermark-filter-invert: 10%;
   --watermark-filter-sepia: 80%;
   --watermark-filter-saturate: 20%;
